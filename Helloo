@@ -1,2 +1,2 @@
 message=HelloWorld
-spring.profiles.active=test
+spring.profiles.active=prod
